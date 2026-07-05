@@ -8,7 +8,7 @@ curl-cffi==0.15.0
     # via ks-downloader (pyproject.toml)
 emoji==2.15.0
     # via ks-downloader (pyproject.toml)
-fastapi==0.136.3
+fastapi==0.139.0
     # via ks-downloader (pyproject.toml)
 lxml==6.1.1
     # via ks-downloader (pyproject.toml)
@@ -16,5 +16,5 @@ pyyaml==6.0.3
     # via ks-downloader (pyproject.toml)
 rich==15.0.0
     # via ks-downloader (pyproject.toml)
-uvicorn[standard]==0.48.0
+uvicorn[standard]==0.50.0
     # via ks-downloader (pyproject.toml)
