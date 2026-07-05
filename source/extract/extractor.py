@@ -153,15 +153,15 @@ class HTMLExtractor:
             "name": data.safe_extract(
                 "userName",
             ),
-            "music_name": data.safe_extract(
-                "music.name",
-            ),
-            "music_url": data.safe_extract(
-                "music.url",
-            ),
-            "music_artist": data.safe_extract(
-                "music.artist",
-            ),
+            # "music_name": data.safe_extract(
+            #     "music.name",
+            # ),
+            # "music_url": data.safe_extract(
+            #     "music.url",
+            # ),
+            # "music_artist": data.safe_extract(
+            #     "music.artist",
+            # ),
         }
 
     def __extract_detail_web(self, data: Namespace, id_: str) -> dict:

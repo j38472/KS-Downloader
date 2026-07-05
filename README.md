@@ -316,6 +316,57 @@ A:
 
 A: 由于权限限制，您无法直接触发主仓库的 Actions。请通过 Fork 仓库的方式执行打包流程
 
+# 🌟 贡献指南
+
+**欢迎对本项目做出贡献！为了保持代码库的整洁、高效和易于维护，请仔细阅读以下指南，以确保您的贡献能够顺利被接受和整合。**
+
+* 在开始开发前，请从 `develop` 分支拉取最新的代码，以此为基础进行修改；这有助于避免合并冲突并保证您的改动基于最新的项目状态。
+* 如果您的更改涉及多个不相关的功能或问题，请将它们分成多个独立的提交或拉取请求。
+* 每个拉取请求应尽可能专注于单一功能或修复，以便于代码审查和测试。
+* 遵循现有的代码风格；请确保您的代码与项目中已有的代码风格保持一致；建议使用 Ruff 工具保持代码格式规范。
+* 编写可读性强的代码；添加适当的注释帮助他人理解您的意图。
+* 每个提交都应该包含一个清晰、简洁的提交信息，以描述所做的更改。提交信息应遵循以下格式：`<类型>: <简短描述>`
+* 当您准备提交拉取请求时，请优先将它们提交到 `develop` 分支；这是为了给维护者一个缓冲区，在最终合并到 `master`
+  分支之前进行额外的测试和审查。
+* 建议在开发前或遇到疑问时与作者沟通，确保开发方向一致，避免重复劳动或无效提交。
+
+**参考资料：**
+
+* [贡献者公约](https://www.contributor-covenant.org/zh-cn/version/2/1/code_of_conduct/)
+* [如何为开源做贡献](https://opensource.guide/zh-hans/how-to-contribute/)
+
+# ✉️ 联系作者
+
+<ul>
+<li>作者邮箱：yonglelolu@foxmail.com</li>
+<li>作者微信: Downloader_Tools</li>
+<li>微信公众号: Downloader Tools</li>
+<li><b>Discord 社区</b>: <a href="https://discord.com/invite/ZYtmgKud9Y">点击加入社区</a></li>
+</ul>
+<p>✨ <b>作者的其他开源项目：</b></p>
+<ul>
+<li><b>DouK-Downloader（抖音、TikTok）</b>：<a href="https://github.com/JoeanAmier/TikTokDownloader">https://github.com/JoeanAmier/TikTokDownloader</a></li>
+<li><b>XHS-Downloader（小红书、XiaoHongShu、RedNote）</b>：<a href="https://github.com/JoeanAmier/XHS-Downloader">https://github.com/JoeanAmier/XHS-Downloader</a></li>
+</ul>
+
+# ♥️ 支持项目
+
+<p>如果 <b>KS-Downloader</b> 对您有帮助，请考虑为它点个 <b>Star</b> ⭐，感谢您的支持！</p>
+<table>
+<thead>
+<tr>
+<th align="center">微信(WeChat)</th>
+<th align="center">支付宝(Alipay)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"><img src="./docs/微信赞助二维码.png" alt="微信赞助二维码" height="200" width="200"></td>
+<td align="center"><img src="./docs/支付宝赞助二维码.png" alt="支付宝赞助二维码" height="200" width="200"></td>
+</tr>
+</tbody>
+</table>
+<p>如果您愿意，可以考虑提供资助为 <b>KS-Downloader</b> 提供额外的支持！</p>
+
 # ⚠️ 免责声明
 
 <ol>
@@ -338,61 +389,10 @@ A: 由于权限限制，您无法直接触发主仓库的 Actions。请通过 Fo
 <li>作者保留在不另行通知的情况下更新本声明的权利，使用者持续使用即视为接受修订后的条款。</li>
 </ol>
 <b>在使用本项目的代码和功能之前，请您认真考虑并接受以上免责声明。如果您对上述声明有任何疑问或不同意，请不要使用本项目的代码和功能。如果您使用了本项目的代码和功能，则视为您已完全理解并接受上述免责声明，并自愿承担使用本项目的一切风险和后果。</b>
-
-# ✉️ 联系作者
-
-<ul>
-<li>作者邮箱：yonglelolu@foxmail.com</li>
-<li>作者微信: Downloader_Tools</li>
-<li>微信公众号: Downloader Tools</li>
-<li><b>Discord 社区</b>: <a href="https://discord.com/invite/ZYtmgKud9Y">点击加入社区</a></li>
-</ul>
-<p>✨ <b>作者的其他开源项目：</b></p>
-<ul>
-<li><b>DouK-Downloader（抖音、TikTok）</b>：<a href="https://github.com/JoeanAmier/TikTokDownloader">https://github.com/JoeanAmier/TikTokDownloader</a></li>
-<li><b>XHS-Downloader（小红书、XiaoHongShu、RedNote）</b>：<a href="https://github.com/JoeanAmier/XHS-Downloader">https://github.com/JoeanAmier/XHS-Downloader</a></li>
-</ul>
 <h1>⭐ Star 趋势</h1>
 <p>
 <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=JoeanAmier/KS-Downloader&amp;type=Timeline"/>
 </p>
-
-# ♥️ 支持项目
-
-<p>如果 <b>KS-Downloader</b> 对您有帮助，请考虑为它点个 <b>Star</b> ⭐，感谢您的支持！</p>
-<table>
-<thead>
-<tr>
-<th align="center">微信(WeChat)</th>
-<th align="center">支付宝(Alipay)</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center"><img src="./docs/微信赞助二维码.png" alt="微信赞助二维码" height="200" width="200"></td>
-<td align="center"><img src="./docs/支付宝赞助二维码.png" alt="支付宝赞助二维码" height="200" width="200"></td>
-</tr>
-</tbody>
-</table>
-<p>如果您愿意，可以考虑提供资助为 <b>KS-Downloader</b> 提供额外的支持！</p>
-
-# 🌟 贡献指南
-
-**欢迎对本项目做出贡献！为了保持代码库的整洁、高效和易于维护，请仔细阅读以下指南，以确保您的贡献能够顺利被接受和整合。**
-
-* 在开始开发前，请从 `develop` 分支拉取最新的代码，以此为基础进行修改；这有助于避免合并冲突并保证您的改动基于最新的项目状态。
-* 如果您的更改涉及多个不相关的功能或问题，请将它们分成多个独立的提交或拉取请求。
-* 每个拉取请求应尽可能专注于单一功能或修复，以便于代码审查和测试。
-* 遵循现有的代码风格；请确保您的代码与项目中已有的代码风格保持一致；建议使用 Ruff 工具保持代码格式规范。
-* 编写可读性强的代码；添加适当的注释帮助他人理解您的意图。
-* 每个提交都应该包含一个清晰、简洁的提交信息，以描述所做的更改。提交信息应遵循以下格式：`<类型>: <简短描述>`
-* 当您准备提交拉取请求时，请优先将它们提交到 `develop` 分支；这是为了给维护者一个缓冲区，在最终合并到 `master`
-  分支之前进行额外的测试和审查。
-* 建议在开发前或遇到疑问时与作者沟通，确保开发方向一致，避免重复劳动或无效提交。
-
-**参考资料：**
-
-* [贡献者公约](https://www.contributor-covenant.org/zh-cn/version/2/1/code_of_conduct/)
-* [如何为开源做贡献](https://opensource.guide/zh-hans/how-to-contribute/)
 
 # 💡 项目参考
 
