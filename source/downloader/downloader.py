@@ -170,7 +170,7 @@ class Downloader:
         data: dict,
         progress: Progress,
     ):
-        if not self.download_music or not (m := data.get("audioUrls")):
+        if not self.download_music or not (m := data.get("music_url")):
             return
         file = self.__generate_path(nickname, filename)
         if not self.__file_exists(file, "m4a"):
